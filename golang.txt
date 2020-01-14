@@ -1,0 +1,8 @@
+http://go-database-sql.org
+https://golang.org/pkg/database/sql/
+http://jmoiron.github.io/sqlx/
+
+https://www.alexedwards.net/blog/practical-persistence-sql
+https://github.com/guregu/null
+https://www.alexedwards.net/blog/organising-database-access
+https://www.alexedwards.net/blog/organising-database-access
